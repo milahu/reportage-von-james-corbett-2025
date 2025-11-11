@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1364 2158"
+ width="1364" height="2158"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1364" height="2158" preserveAspectRatio="none" xlink:href="images/005.avif"/>
+<text x="521.5" y="357.0" xml:space="preserve"> </text>
+<text x="521.5" y="358.0">
+  <tspan x="521.5" y="373.25" font-size="26.5px" textLength="47.0" lengthAdjust="spacingAndGlyphs">An</tspan>
+  <tspan x="581.0" y="372.5" font-size="29.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">meine</tspan>
+  <tspan x="698.5" y="375.25" font-size="34.5px" textLength="126.0" lengthAdjust="spacingAndGlyphs">Kinder;</tspan>
+  <tspan x="516.0" y="426.75" font-size="29.5px" textLength="66.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="595.0" y="426.75" font-size="29.5px" textLength="97.5" lengthAdjust="spacingAndGlyphs">deren</tspan>
+  <tspan x="705.5" y="429.25" font-size="34.5px" textLength="125.5" lengthAdjust="spacingAndGlyphs">Kinder;</tspan>
+  <tspan x="458.0" y="480.25" font-size="29.5px" textLength="67.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="537.0" y="480.25" font-size="29.5px" textLength="98.5" lengthAdjust="spacingAndGlyphs">deren</tspan>
+  <tspan x="648.0" y="480.5" font-size="30.0px" textLength="239.5" lengthAdjust="spacingAndGlyphs">Kindeskinder:</tspan>
+  <tspan x="388.0" y="534.0" font-size="29.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">Ich</tspan>
+  <tspan x="451.0" y="534.0" font-size="29.0px" textLength="82.5" lengthAdjust="spacingAndGlyphs">habe</tspan>
+  <tspan x="546.0" y="534.0" font-size="29.0px" textLength="86.0" lengthAdjust="spacingAndGlyphs">mein</tspan>
+  <tspan x="645.0" y="538.25" font-size="37.5px" textLength="200.5" lengthAdjust="spacingAndGlyphs">Möglichstes</tspan>
+  <tspan x="857.0" y="540.5" font-size="34.0px" textLength="102.0" lengthAdjust="spacingAndGlyphs">getan.</tspan>
+</text>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1412 2254"
+ width="1412" height="2254"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1412" height="2254" preserveAspectRatio="none" xlink:href="images/367.avif"/>
+<text x="315.5" y="413.5" xml:space="preserve"> </text>
+<text x="315.5" y="414.5">
+  <tspan x="315.5" y="477.5" font-size="122.0px" textLength="342.0" lengthAdjust="spacingAndGlyphs">James</tspan>
+  <tspan x="702.0" y="476.5" font-size="124.0px" textLength="394.0" lengthAdjust="spacingAndGlyphs">Corbett</tspan>
+</text>
+<text x="122.0" y="1015.0" xml:space="preserve"> </text>
+<text x="122.0" y="1016.0">
+  <tspan x="122.0" y="1132.75" font-size="233.5px" textLength="1173.5" lengthAdjust="spacingAndGlyphs">REPORTAGE</tspan>
+</text>
+<text x="457.5" y="1705.0" xml:space="preserve"> </text>
+<text x="457.5" y="1706.0">
+  <tspan x="457.5" y="1772.75" font-size="133.5px" textLength="328.0" lengthAdjust="spacingAndGlyphs">Essays</tspan>
+  <tspan x="822.5" y="1775.25" font-size="80.5px" textLength="148.0" lengthAdjust="spacingAndGlyphs">zur</tspan>
+  <tspan x="234.0" y="1914.5" font-size="110.0px" textLength="295.0" lengthAdjust="spacingAndGlyphs">Neuen</tspan>
+  <tspan x="569.0" y="1927.25" font-size="133.5px" textLength="618.0" lengthAdjust="spacingAndGlyphs">Weltordnung</tspan>
+</text>
+</svg>
