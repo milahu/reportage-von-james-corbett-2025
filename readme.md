@@ -1,12 +1,50 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# James Corbett - Reportage. Essays zur neuen Weltordnung (2025)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.avif)
+![James Corbett - Reportage. Essays zur neuen Weltordnung (2025)](cover.avif)
 
-TODO_BOOK_STORE_URL
+https://www.buchkomplizen.de/buecher/politik/geopolitik/reportage.html
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Reportage ist James Corbetts bestes Werk.  
+Aufschlussreich, bissig, witzig –  
+er ordnet Fakten und liefert harte Realitäten mit messerscharfem Verstand,  
+Liebe zur Wahrheit und einem tiefem Respekt für unsere Rechte und Freiheiten.  
+(Catherine Austin Fitts, The Solari Report)
+
+James möchte Ihren Geist von der Matrix befreien  
+damit Sie selbst sehen, wie Betrug, Wahnvorstellungen,  
+permanente Propaganda und das unerbittlich Böse aussehen.  
+Reportage ist ein wichtiges Buch - zum Lesen und Weitergeben.  
+(Patrick Wood, Technocracy News)
+
+Seit fast zwanzig Jahren gehört James Corbett zu den beständigsten,  
+fundiertesten und glaubwürdigsten Stimmen in den unabhängigen Medien  
+und bildet Generationen von Wahrheitssuchenden aus.  
+(Whitney Webb, Unlimited Hangout)
+
+- Verlag: tredition
+- Format: Softcover
+- Umfang: 364 Seiten
+- Maße: 19,0 cm x 12,0 cm
+- Erscheinungsdatum: 03.11.2025
+- Artikelnummer: 978-3-384-69025-8
+
+über die Autoren
+
+James Corbett ist preisgekrönter unabhängiger Autor und Produzent diverser Dokumentationen.  
+Seit 2007 hat er über seine Webseite (www.corbettreport.com)  
+Tausende von Videos, Artikeln und Interviews veröffentlicht  
+und sich damit internationale Reputation  
+für Integrität und journalistische Weitsicht erworben.  
+Sein erstes Buch analysiert nun in gleicher Manier  
+die Wurzeln, Kultur, Denkweise und rücksichtslose Machtgier  
+supranationaler Institutionen und Interessengruppen.  
+So verschaffen James' Essays nicht nur Klarheit in Bezug  
+auf verdeckte Operationen und unterdrückte Teile unserer Geschichte,  
+sondern präsentieren darüber hinaus Alternativen -  
+und stellenweise sogar Hoffnungsschimmer für das freie, souveräne Individuum,  
+dessen Lebensraum die herrschenden Kräfte kontinuierlich beschneiden.
 
 </blockquote>
 
@@ -20,10 +58,10 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/reportage-von-james-corbett-2025
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/reportage-von-james-corbett-2025
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/reportage-von-james-corbett-2025
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/reportage-von-james-corbett-2025
 
 
 
